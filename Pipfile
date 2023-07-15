@@ -8,8 +8,6 @@ pillow = "*"
 numpy = "*"
 pylama = "*"
 black = "*"
-torch = "*"
-torchvision = "*"
 rich = "*"
 
 [dev-packages]
